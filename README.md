@@ -1,3 +1,8 @@
+## Originally forked from [lukesmithxyz/st](https://github.com/lukesmithxyz/st)
+
+| Changed the font, mod key and terminal name.
+|
+
 # Luke's build of st - the simple (suckless) terminal
 
 The [suckless terminal (st)](https://st.suckless.org/) with some additional features that make it literally the best terminal emulator ever:
